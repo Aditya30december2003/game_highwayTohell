@@ -20,7 +20,7 @@ import { createAudioManager } from "../game/audio";
 import { createHero } from "../game/hero";
 import { createEnemyManager } from "../game/enemies";
 import { createCoinManager } from "../game/coins";
-import { createTrapManager } from "../game/traps";
+import { createTrapManager } from "../game/traps"
 
 export default function GameCanvas() {
   const wrapperRef = useRef(null);
