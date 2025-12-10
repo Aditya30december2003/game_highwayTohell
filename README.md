@@ -1,5 +1,5 @@
 A React + Pixi.js arcade-style runner built with retro pixel art
-<img src="../assets/game_ss.png" />
+<img src="src/assets/game_ss.png" />
 Highway to Hell is a fast-paced 1-player endless runner built using Pixi.js for rendering and React for UI + routing.
 The objective is simple yet addictive: jump, dodge the deadly hurdles, collect coins, survive as long as possible.
 This game was my first ever project using Pixi.js, created to explore 2D rendering, sprite animation, game loops, collision detection, and physics inside a React environment.
